@@ -4,7 +4,7 @@
 
 # 🚀 AI Influencer Generator | SadTalker + Stable Diffusion + GPT-4o
 
-Criei um **vídeos de influenciadores digitais** hiper-realistas de forma automatizada, unindo o poder de geração de imagem do Stable Diffusion, voz via IA (Google TTS) e animação facial com SadTalker. Pipeline orquestrado com automação inteligente, pronto para branding, campanhas, treinamento, onboarding digital ou comunicação de autoridade.
+Criei um modelo que gera **vídeos de influenciadores digitais** hiper-realistas de forma automatizada, unindo o poder de geração de imagem do Stable Diffusion, voz via IA (Google TTS) e animação facial com SadTalker. Pipeline orquestrado com automação inteligente, pronto para branding, campanhas, treinamento, onboarding digital ou comunicação de autoridade.
 
 ---
 
