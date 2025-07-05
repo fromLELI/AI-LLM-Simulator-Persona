@@ -58,14 +58,8 @@ Criei um **vídeos de influenciadores digitais** hiper-realistas de forma automa
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/AI-Influencer-Generator.git
-cd AI-Influencer-Generator
+git clone https://github.com/seuusuario/AI-LLM-Simulator-Persona.git
+cd AI-LLM-Simulator-Persona
 
-# Instale as dependências
-pip install -r requirements.txt
-
-# Baixe os modelos e pesos necessários
-python download_models.py
-
-# Execute o notebook ou o pipeline principal
-# (Exemplo de uso no notebook: AI_Persona.ipynb)
+# Siga o passo a passo de instalação das dependências e baixe os modelos e pesos necessários
+# AI_Simulator_Persona_LLM.ipynb
