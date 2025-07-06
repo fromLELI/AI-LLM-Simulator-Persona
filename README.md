@@ -14,7 +14,7 @@ Criei um modelo que gera **vídeos de influenciadores digitais** hiper-realistas
 
 <div align="center">
 <a href="results/2025_07_05_16.44.37.mp4" target="_blank">
-  <img src="caminho/thumbnail.png" alt="Clique para assistir ao vídeo" width="480">
+  <img src="examples\source_image\generated_image.png" alt="Clique para baixar e assistir o resultado" width="480">
 </a>
 
 
