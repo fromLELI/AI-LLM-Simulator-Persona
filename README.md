@@ -13,7 +13,7 @@ Criei um modelo que gera **vídeos de influenciadores digitais** hiper-realistas
 > **Veja abaixo o vídeo gerado automaticamente pelo pipeline:**
 
 <div align="center">
-[▶️ Clique para assistir ao vídeo](results/meuvideo.mp4)
+<p>results/2025_07_05_16.44.37.mp4</p>
 <!-- Substitua o link pelo upload do seu vídeo .mp4 gerado -->
 <video width="480" controls>
   source src="results/2025_07_05_16.44.37.mp4" type="video/mp4"><
